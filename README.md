@@ -1,5 +1,5 @@
 # Descripton
-Custom stepper code for robot arm project controlled with an Arduino.
+Custom stepper code for robot arm project controlled by an Arduino.
 
 # Features
 
